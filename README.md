@@ -61,6 +61,8 @@
 [![codecov](https://codecov.io/gh/JGCRI/rpackageutils/branch/master/graph/badge.svg)](https://codecov.io/gh/JGCRI/rpackageutils)
 [![DOI](https://zenodo.org/badge/260550796.svg)](https://zenodo.org/badge/latestdoi/260550796)
 ## [pypackageutils (python)](https://github.com/JGCRI/pypackageutils)
+[![build](https://github.com/JGCRI/pypackageutils/actions/workflows/build.yml/badge.svg)](https://github.com/JGCRI/pypackageutils/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/JGCRI/pypackageutils/branch/master/graph/badge.svg?token=VLNPBO7T2U)](https://codecov.io/gh/JGCRI/pypackageutils)
 
 
 <!--
