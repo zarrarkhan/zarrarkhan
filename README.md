@@ -41,12 +41,26 @@
 # Sectoral
 ## Tethys - Water withdrawals & Consumption (python)
 ## Xanthos - Water Supply (Python)
-## Helios - HDDCDD processing (R)
-## Metis - Intersectoral interactions (R)
+## [Helios - HDDCDD processing (R)](https://github.com/JGCRI/helios)
+<!-- badges: start -->
+[![build](https://github.com/JGCRI/helios/workflows/build/badge.svg)](https://github.com/JGCRI/helios/workflows/build/badge.svg)
+[![test_coverage](https://github.com/JGCRI/helios/actions/workflows/test_coverage.yml/badge.svg?branch=main)](https://github.com/JGCRI/helios/actions/workflows/test_coverage.yml)
+[![codecov](https://codecov.io/gh/JGCRI/helios/branch/main/graph/badge.svg?token=XQ913U4IYM)](https://codecov.io/gh/JGCRI/helios) 
+[![docs](https://github.com/JGCRI/helios/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/JGCRI/helios/actions/workflows/pkgdown.yaml)
+[![Github All Releases](https://img.shields.io/github/downloads/JGCRI/helios/total.svg)]()
+<!-- badges: end -->
+## [Metis - Intersectoral interactions (R)](https://github.com/JGCRI/metis)
+<!-- badges: start -->
+  [![Travis build status](https://travis-ci.org/JGCRI/metis.svg?branch=master)](https://travis-ci.org/JGCRI/metis)
+  <!-- badges: end -->
 
 # Utility Packages
-## rpackageutils (python)
-## pypackageutils (python)
+## [rpackageutils (R)](https://github.com/JGCRI/rpackageutils)
+![R-CMD-check](https://github.com/JGCRI/rpackageutils/workflows/R-CMD-check/badge.svg)
+![test-coverage](https://github.com/JGCRI/rpackageutils/workflows/test-coverage/badge.svg)
+[![codecov](https://codecov.io/gh/JGCRI/rpackageutils/branch/master/graph/badge.svg)](https://codecov.io/gh/JGCRI/rpackageutils)
+[![DOI](https://zenodo.org/badge/260550796.svg)](https://zenodo.org/badge/latestdoi/260550796)
+## [pypackageutils (python)](https://github.com/JGCRI/pypackageutils)
 
 
 <!--
