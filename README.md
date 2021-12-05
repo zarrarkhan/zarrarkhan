@@ -1,4 +1,4 @@
-# Visualization
+# Spatio-temporal analysis and visualization
 ## [jgcricolors (R)](https://github.com/JGCRI/jgcricolors)
 [![docs](https://github.com/JGCRI/jgcricolors/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/JGCRI/jgcricolors/actions/workflows/pkgdown.yaml)
 [![build](https://github.com/JGCRI/jgcricolors/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/JGCRI/jgcricolors/actions/workflows/build.yml)
