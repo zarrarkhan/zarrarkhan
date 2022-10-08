@@ -46,10 +46,8 @@
 <!-- badges: end -->
 
 # Sectoral
-## Tethys - Water withdrawals & Consumption (python)
-
-## Xanthos - Water Supply (Python)
-
+## [Tethys - Water withdrawals & Consumption (python)](https://github.com/JGCRI/tethys)
+## [Xanthos - Water Supply (Python)](https://github.com/JGCRI/xanthos)
 ## [Helios - HDDCDD processing (R)](https://github.com/JGCRI/helios)
 <!-- badges: start -->
 [![build](https://github.com/JGCRI/helios/workflows/build/badge.svg)](https://github.com/JGCRI/helios/workflows/build/badge.svg)
